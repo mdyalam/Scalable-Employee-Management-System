@@ -74,18 +74,6 @@ http://localhost:3000
 
 ---
 
-## 📡 API Endpoints
-
-| Method | Endpoint         | Description        |
-| ------ | ---------------- | ------------------ |
-| POST   | `/employees`     | Create employee    |
-| GET    | `/employees`     | Get all employees  |
-| GET    | `/employees/:id` | Get employee by ID |
-| PUT    | `/employees/:id` | Update employee    |
-| DELETE | `/employees/:id` | Delete employee    |
-
----
-
 ## 🧪 Sample Request Body
 
 ```json
