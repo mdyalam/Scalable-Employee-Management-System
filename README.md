@@ -1,4 +1,4 @@
-# Employee CRUD API
+# Employee Management System
 
 A RESTful API for managing employees, built with **NestJS**, **TypeORM**, **PostgreSQL**, and **Docker**.
 
@@ -24,8 +24,8 @@ Follow these steps to get the project running on your local machine.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yaseen-doodleblue/employee-crud-task.git
-cd employee-crud-task
+git clone https://github.com/mdyalam/Scalable-Employee-Management-System.git
+cd Scalable-Employee-Management-System
 ```
 
 ---
